@@ -7,3 +7,4 @@
 Part of QuickBite, a learning project. Architecture decisions live in `docs/adr/`.
 
 **Status:** Phase 1 (GitHub setup). No code yet.
+
